@@ -11,8 +11,8 @@
 
 /* Reset */
 * {
-    margin: 20;
-    padding: 0;
+    margin: 10;
+    padding: 5;
     box-sizing: border-box;
     font-family: var(--font-body);
 }

@@ -28,8 +28,8 @@ body {
 header {
     background-color: var(--secondary-color);
     text-align: center;
-    padding: 5px;
-    margin-bottom: 20px;
+    padding: 20px;
+    margin-bottom: 5px;
     border-radius: 8px;
 }
 

@@ -29,8 +29,8 @@ header {
     background-color: var(--secondary-color);
     text-align: center;
     padding: 20px;
-    margin-bottom: 5px;
-    border-radius: 8px;
+    margin-bottom:20px;
+    border-radius: 20px;
 }
 
 header h1 {
